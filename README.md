@@ -1,7 +1,15 @@
-*EDA* /n contents : /n imputation methods :
+*EDA* 
+
+**contents** : 
+
+imputation methods :
+
 simple imputer 
+
 iterative imputer
+
 ffill
+
 bfill
 
 encoding :
